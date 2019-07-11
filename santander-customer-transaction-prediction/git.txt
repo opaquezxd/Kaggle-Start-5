@@ -4,3 +4,9 @@ git commit -m""
 git remote add origin git@github.com:opaquezxd/Kaggle.git
 git pull origin master --allow-unrelated-histories
 git push origin master
+
+É¾³ıÎÄ¼ş¼Ğ
+git pull origin master
+git rm ?r --cached target
+git commit -m ¡®É¾³ıÁËtarget
+git push -u origin master
