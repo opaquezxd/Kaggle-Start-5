@@ -5,8 +5,8 @@ git remote add origin git@github.com:opaquezxd/Kaggle.git
 git pull origin master --allow-unrelated-histories
 git push origin master
 
-É¾³ıÎÄ¼ş¼Ğ
+delete files
 git pull origin master
-git rm ?r --cached target
-git commit -m ¡®É¾³ıÁËtarget
+git rm -r --cached target
+git commit -m "target"
 git push -u origin master
